@@ -6,6 +6,7 @@ public class Test5 {
 		// TODO Auto-generated method stub
 
 		System.out.println("제발");
+		System.out.println("추가하기");
 	}
 
 }
